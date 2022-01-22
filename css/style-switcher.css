@@ -85,3 +85,18 @@
 {
     background: #f021b2;
 }
+.style-switcher .github
+{
+    top: 105px;
+    padding-top: 0px;
+    font-size: 20px;
+} 
+.style-switcher .linkedin
+{
+    top: 155px;
+}
+.style-switcher .s-icon a
+{
+    background: var(--bg-black-100);
+    color: var(--text-black-900);
+}
