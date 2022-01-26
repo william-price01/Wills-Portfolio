@@ -89,3 +89,9 @@ const nav = document.querySelector(".nav"),
                     allSection[i].classList.toggle("open");
                 }
             }
+
+        // email function
+            formData = document.getele
+    send = () => {
+    
+    }
